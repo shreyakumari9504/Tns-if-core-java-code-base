@@ -1,3 +1,4 @@
+
 package tnsif.scanner;
 
 public class TaxCalculation {
